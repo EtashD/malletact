@@ -1,4 +1,4 @@
-# vibewave
+# malletact
 Open-source haptic music wearable for deaf and hard-of-hearing people. Replication cost ~$50.
 
 **Replication cost: ~$50 (Amazon) — vs. $700–$1,500 commercial equivalents.**
