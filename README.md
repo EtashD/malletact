@@ -9,7 +9,7 @@ A vest + wrist band wearable that converts ambient sound into real-time vibratio
 🔧 Currently in development — June 12 2026
 
 ## Build log
-Coming soon.
+Under 'docs'
 
 ## License
 MIT
