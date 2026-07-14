@@ -34,7 +34,7 @@ Day 4: A sketch that reads the KY-037 ambient mic's analog output and prints liv
 - Sensitivity: mic picks up claps, taps, and music well, but barely registers quiet continuous tones like humming — expected for this module's small capsule/preamp. Sometimes there isn't consistency with many claps/taps in a row.
 
 ## Code
-See `day3_pwm.ino` and `day4_mic.ino` in `firmware/ramp_up/`
+See `day3-4_pwm.ino` in `firmware/ramp_up/`
 
 ## Photos and Videos
 https://drive.google.com/drive/folders/1pxdheA2vZyIc2eCXpLjCQnB3s_ak71AY?usp=sharing
